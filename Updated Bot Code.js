@@ -6,3 +6,10 @@ const Discord = require('discord.js')
 client.on('ready', () => {
  console.log(`Logged in as ${client.user.tag}!`);
  });
+
+
+
+
+
+//place this on the bottem of the code (just my suggestion)
+client.login('TOKEN');
