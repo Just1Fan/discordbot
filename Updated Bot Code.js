@@ -11,5 +11,5 @@ client.on('ready', () => {
 
 
 
-//place this on the bottem of the code (just my suggestion)
+//place this at the bottem of the code (just my suggestion)
 client.login('TOKEN');
